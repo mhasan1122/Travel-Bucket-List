@@ -18,6 +18,21 @@ A beautiful **React Native frontend-only app** built with Expo. Plan your dream 
 
 ---
 
+## screenshots
+<!-- Image 1 -->
+<img src="https://github.com/user-attachments/assets/22101a32-e2ee-4649-bd20-f70918825f0d" width="200" height="300" />
+
+<!-- Image 2 -->
+<img src="https://github.com/user-attachments/assets/b3fb3bab-fe50-491e-bb1a-3228e68285c6" width="200" height="300" />
+
+<!-- Image 3 -->
+<img src="https://github.com/user-attachments/assets/a5b2e540-8b23-4e55-bf7d-30fab59beb97" width="200" height="300" />
+
+<!-- Image 4 -->
+<img src="https://github.com/user-attachments/assets/60943794-73e3-4e4c-b846-c1ec586bf943" width="200" height="300" />
+
+
+
 ## 🛠️ Tech Stack
 
 - **React Native (Expo)**
