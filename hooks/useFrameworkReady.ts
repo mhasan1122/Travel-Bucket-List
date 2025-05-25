@@ -6,6 +6,7 @@ declare global {
   }
 }
 
+
 export function useFrameworkReady() {
   useEffect(() => {
     window.frameworkReady?.();
